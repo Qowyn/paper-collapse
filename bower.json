@@ -24,10 +24,10 @@
   ],
   "dependencies": {
     "polymer": "Polymer/polymer#latest",
-		"iron-collapse": "PolymerElements/iron-collapse#latest",
-		"iron-icon": "PolymerElements/iron-icon.html#latest",
-		"iron-icons": "PolymerElements/iron-icons.html#latest",
-		"iron-flex-layout": "PolymerElements/iron-flex-layout.html#latest",
-		"font-roboto": "PolymerElements/roboto.html#latest"
+    "iron-collapse": "PolymerElements/iron-collapse#latest",
+    "iron-icon": "PolymerElements/iron-icon#latest",
+    "iron-icons": "PolymerElements/iron-icons#latest",
+    "iron-flex-layout": "PolymerElements/iron-flex-layout#latest",
+    "font-roboto": "PolymerElements/font-roboto#latest"
   }
 }
